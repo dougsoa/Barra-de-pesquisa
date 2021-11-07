@@ -6,3 +6,6 @@
   font-family: 'poppins', sans-serif;
   Background: #fff
 }
+body {
+  display: flex;
+}
